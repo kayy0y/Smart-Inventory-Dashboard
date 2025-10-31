@@ -65,4 +65,4 @@ Developed stronger understanding of DOM manipulation, responsive UI design, and 
 -> Live Demo
 https://kayy0y.github.io/Smart-Inventory-Dashboard/
 
--> Live Demo
+
